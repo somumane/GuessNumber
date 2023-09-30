@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color:white;
+}
+.submit{
+    background-color: aliceblue;
+    color: black;
+    height: 50px;
+    width: 150px;
+    border-radius:10px ;
+    margin-left:80px;
+    padding: 5px;
+}
+input{
+    height: 50px;
+    width: 200px;
+    margin: 10px;
+    font-size: 30px;
+    text-align: center;
+}
